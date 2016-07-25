@@ -10,27 +10,27 @@ iPhone/iPad have network connection to your openstack cloud environment.
 
 Current Features:
 
-	support multiple tenants and multiple regions, easy to switch and manage your resources in other tenants/regions at any time
+	Support multiple tenants and multiple regions, easy to switch and manage your resources in other tenants/regions at any time
 	
-	view resource usage summary
+	View resource usage summary
 	
-	create,view,delete,start,stop instances, view instance console logs, associate,disassociate floatingip to your instance.
+	Create,view,delete,start,stop instances, view instance console logs, associate,disassociate floatingip to your instance.
 
-	view image name,size etc properties
+	View image name,size etc properties
 	
-	view flavor VCPU,RAM size etc properties
+	View flavor VCPU,RAM size etc properties
 	
-	create,view,delete security group and security group rules
+	Create,view,delete security group and security group rules
 	
-	create,import,delete keypair, save private key to safe place by email
+	Create,import,delete keypair, save private key to safe place by email
 
-	create,delete,assocate,disassociate floatingip
+	Create,delete,assocate,disassociate floatingip
 	
-	create,delete,edit network
+	Create,delete,edit network
 	
-	create,view,edit,delete subnet
+	Create,view,edit,delete subnet
 	
-	create,view,edit,delete router, add,delete,view router interface set/clear router gateway
+	Create,view,edit,delete router, add,delete,view router interface set/clear router gateway
 
 alix2013@icloud.com
 
