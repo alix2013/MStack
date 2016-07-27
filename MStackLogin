@@ -1,0 +1,24 @@
+MStack Login
+-------------
+if you have no openstack cloud,the trystack is a free openstack. access
+http://www.trystack.org/ click "Join Our Facebook Group" login facebook
+click "Join"
+
+after join trystack facebook group access
+https://x86.trystack.org/dashboard/ 
+click "login with facebook"
+
+Go to Project -> Access & Security -> API Acces 
+click "Download openstack RC file" 
+open the downloaded rc file in local desktop by any text file
+view tools, search the following keywords: 
+OS\_AUTH\_URL 
+OS\_PASSWORD
+OS\_USERNAME 
+e.g. OS\_AUTH\_URL=http://8.43.86.2:5000/v2.0
+OS\_USERNAME=testuser 
+OS\_PASSWORD=testpass 
+
+then input 8.43.86.2 as host,5000 as port, testuser as user, testpass as password in MStack login screen
+
+Enjoy MStack and openstack cloud!
