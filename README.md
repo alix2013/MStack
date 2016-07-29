@@ -34,6 +34,10 @@ Current Features:
 
 alix2013@icloud.com
 
-screen snapshot:
+Screen snapshot:
 
 ![Home](https://github.com/alix2013/MStack/blob/master/Home.png)
+![Home](https://github.com/alix2013/MStack/blob/master/InstanceList.png)
+![Home](https://github.com/alix2013/MStack/blob/master/Overview.png)
+![Home](https://github.com/alix2013/MStack/blob/master/Router.png)
+![Home](https://github.com/alix2013/MStack/blob/master/SecurityGroupRules.png)
