@@ -36,8 +36,9 @@ alix2013@icloud.com
 
 Screen snapshot:
 
-![Home](https://github.com/alix2013/MStack/blob/master/Home.png)
-![Home](https://github.com/alix2013/MStack/blob/master/InstanceList.png)
-![Home](https://github.com/alix2013/MStack/blob/master/Overview.png)
-![Home](https://github.com/alix2013/MStack/blob/master/Router.png)
-![Home](https://github.com/alix2013/MStack/blob/master/SecurityGroupRules.png)
+![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/Home.png)
+![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/InstanceList.png)
+![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/Overview.png)
+![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/Router.png)
+![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/SecurityGroupRules.png)
+
