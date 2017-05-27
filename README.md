@@ -1,6 +1,6 @@
 # MStack
 
-Apple appstore downlown site: 
+## Apple appstore download site: 
 
 - MStack : 
 https://itunes.apple.com/app/id1138210567
@@ -8,7 +8,7 @@ https://itunes.apple.com/app/id1138210567
 - MStackPro: 
 https://itunes.apple.com/app/id1148320522
 
-Openstack Mobile Client for iPhone/iPad( IOS8.0 or above )
+## Openstack Mobile Client for iPhone/iPad( IOS8.0 or above )
 
   Easy and simple to manage your Openstack cloud from anywhere at any time,
 MStack support openstack cloud platform version Icehouce or above verson, 
