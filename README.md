@@ -18,27 +18,27 @@ iPhone/iPad have network connection to your openstack cloud environment.
 
 Current Features:
 
-	Support multiple tenants and multiple regions, easy to switch and manage your resources in other tenants/regions at any time
-	
-	View resource usage summary
-	
-	Create,view,delete,start,stop instances, view instance console logs, associate,disassociate floatingip to your instance.
+- Support multiple tenants and multiple regions, easy to switch and manage your resources in other tenants/regions at any time
 
-	View image name,size etc properties
-	
-	View flavor VCPU,RAM size etc properties
-	
-	Create,view,delete security group and security group rules
-	
-	Create,import,delete keypair, save private key to safe place by email
+- View resource usage summary
 
-	Create,delete,assocate,disassociate floatingip
+- Create,view,delete,start,stop instances, view instance console logs, associate,disassociate floatingip to your instance.
+
+- View image name,size etc properties
 	
-	Create,delete,edit network
+- View flavor VCPU,RAM size etc properties
 	
-	Create,view,edit,delete subnet
+- Create,view,delete security group and security group rules
 	
-	Create,view,edit,delete router, add,delete,view router interface set/clear router gateway
+- Create,import,delete keypair, save private key to safe place by email
+
+- Create,delete,assocate,disassociate floatingip
+	
+- Create,delete,edit network
+	
+- Create,view,edit,delete subnet
+	
+- Create,view,edit,delete router, add,delete,view router interface set/clear router gateway
 
 
 
@@ -175,7 +175,6 @@ Consult cloud admin about what’s the username
 ![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/InstanceList.png)
 ![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/Overview.png)
 ![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/Router.png)
-![Home](https://github.com/alix2013/MStack/blob/master/screensnapshot/SecurityGroupRules.png)
 
 
 alix2013@icloud.com
